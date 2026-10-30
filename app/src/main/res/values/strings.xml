@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocFinder</string>
+    <string name="tagline">Find Doctors Near You.</string>
+    <string name="search_hint">Search by doctor name or specialization</string>
+    <string name="categories">Categories</string>
+    <string name="call_doctor">Call Doctor</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="about_title">About</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="about_description">This app uses modern APIs to help you find nearby doctors quickly and easily.</string>
+    <string name="developed_by">Developed By</string>
+    <string name="developer_name">Hetvi Bhanushali</string>
+    <string name="contact">Contact</string>
+    <string name="contact_email">hetvi.bhanushali24@sakec.ac.in</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="no_favorites">No favorites yet.\nTap "Save to Favorites" on a doctor\'s page to add them here.</string>
+    <string name="nearby_doctors_title">Nearby Doctors</string>
+
+</resources>

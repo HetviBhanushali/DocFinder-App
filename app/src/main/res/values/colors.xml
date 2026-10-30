@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_dark">#0F4C4C</color>
+    <color name="teal_primary">#14746F</color>
+    <color name="teal_light">#A8DADC</color>
+    <color name="teal_bg">#D6ECEC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_text">#4A4A4A</color>
+    <color name="gray_light">#EFEFEF</color>
+    <color name="star_yellow">#FFC107</color>
+    <color name="card_bg">#FFFFFF</color>
+</resources>

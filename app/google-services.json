@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638286183367",
+    "project_id": "docfinder-c5a91",
+    "storage_bucket": "docfinder-c5a91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638286183367:android:d89147e2f5ea18c2d277e2",
+        "android_client_info": {
+          "package_name": "com.example.docfinderv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-iAu7SaL77yjKF9Ox2ZUDGHq_ENA5VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
